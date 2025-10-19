@@ -29,6 +29,10 @@ Berikut Tampilan Art Space App
 
 ![Preview](images/preview.jpeg)
 
+Berikut Tampilan Landscape pada Desktop Art Space App
+![Preview](images/preview2.jpeg)
+
+
 
 ## Plugins
 
