@@ -132,7 +132,7 @@ fun ArtSpaceApp() {
 
         Row(
             horizontalArrangement = Arrangement.SpaceBetween,
-            modifier = Modifier.fillMaxWidth().verticalScroll(rememberScrollState())
+            modifier = Modifier.fillMaxWidth()
         ) {
             Button(
                 onClick = {
